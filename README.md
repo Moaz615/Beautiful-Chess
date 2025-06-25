@@ -14,7 +14,7 @@ A modern, visually appealing chess game playable in your browser! Play against a
 - AI with three difficulty levels
 
 ## How to Run
-**Open [the demo link](https://moaz615.github.io/Beautiful-chess/) in your web browser.**
+**Open [the demo link](https://moaz615.github.io/Beautiful-Chess/) in your web browser.**
   **Enjoy playing Beautiful Chess**
 
 ## Controls
